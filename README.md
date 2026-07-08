@@ -71,8 +71,3 @@ The following analyses were performed:
 - Smart Grid Research
 
 ---
-
-
-Self Project (2026)
-
----
